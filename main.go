@@ -18,7 +18,7 @@ import (
 	"strings"
 	"time"
 
-	"golang.org/x/net/publicsuffix"
+	"github.com/atomx/publicsuffix"
 )
 
 type Request *http.Request
